@@ -9,6 +9,6 @@ entries:
     name: express-app
     type: application
     urls:
-    - https://github.com/NarayananChandran/helmrepo/express-app-0.1.1.tgz
+    - https://narayananchandran.github.io/helmrepo/express-app-0.1.1.tgz
     version: 0.1.1
 generated: "2025-02-21T10:14:47.217662241Z"
